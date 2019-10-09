@@ -1,5 +1,5 @@
 # hello-world
-See step 2 in create a new repository
+See step two in create a new repository
 
 Hello all, I am working through the GITHUB repositoryreadme file
 This is Step 3. Make and commit changes substep 2
